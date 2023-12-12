@@ -1,0 +1,1 @@
+{"id":"b9f52805-f5cd-4024-b6b3-09c4799d38e6","name":"Table1-taskform.frm","model":{"taskName":"Table1","processId":"MonthlyPlansProject.MonthlyPlanProcess","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
